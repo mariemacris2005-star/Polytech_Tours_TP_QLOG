@@ -1,6 +1,6 @@
 # 🎾 Corpo Padel — Application de gestion de tournois
 
-https://github.com/mariemacris2005-star/Polytech_Tours_TP_QLOG/actions/workflows/ci.yml/badge.svg
+![CI](https://github.com/mariemacris2005-star/Polytech_Tours_TP_QLOG/actions/workflows/ci.yml/badge.svg)
 
 Application web de gestion de tournois de padel inter-entreprises, développée
 pour le **TP Qualité, Tests & CI/CD** de Polytech Tours (cycle ingénieur 4A/5A).
